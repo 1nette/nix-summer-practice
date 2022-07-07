@@ -2,3 +2,4 @@
 Salut, de Monde!
 
 new line
+conflict
