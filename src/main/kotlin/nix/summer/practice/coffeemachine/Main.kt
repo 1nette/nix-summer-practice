@@ -1,5 +1,4 @@
 package nix.summer.practice.coffeemachine
-
 import java.util.Scanner
 
 
